@@ -1,0 +1,141 @@
+.background{
+  background-color: #D3D3D3;
+}
+
+.aboutbackground{
+  background-color:#D3D3D3;
+}
+.productbackground{
+  background-color: #D3D3D3;
+}
+.title1{
+text-align:center;
+background-color: white;
+Color:#778899;
+}
+.title2{
+  text-align:center;
+  background-color: white;
+  color:#778899
+}
+.title3{
+  text-align:center;
+  background-color: white;
+  color:#778899
+}
+#image1{
+  display:block;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+
+ #image2{
+   width: 350px;
+   height: 350px;
+   float: right;
+ }
+.text1{
+  text-align: center;
+  font-family:Garamond
+
+}
+.product1{
+font-family:Garamond;
+text-align:center;
+}
+.product2{
+font-family:Garamond;
+text-align:center;
+
+
+}
+.product3{
+  text-align:center;
+  font-family:Garamond;
+
+}
+.title4{
+  text-align: center;
+  color:#8B4513
+
+}
+
+.title5{
+  text-align:center;
+  color:#8B4513
+
+}
+#image4{
+  float: left;
+  width:300px;
+  height:200px;
+}
+
+#image5{
+  float: right;
+  width:300px;
+  height:200px;
+
+}
+#image6{
+  float: left;
+  width:300px;
+  height:200px;
+}
+
+  #video1{
+    display: block;
+    margin: auto;
+  }
+
+.menu, .footerbar{
+margin: 0;
+padding: 0;
+}
+
+.menu a, .footerbar a{
+  display: block;
+  color: Black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+float: left;
+}
+.menu a:hover, .footerbar a:hover {
+  background-color: lightblue
+}
+
+#refrences{
+  color:#8B4513;
+}
+.button{
+  display: square;
+  height: 30%;
+  border: 2px solid #778899;
+color: #8B4513
+
+}
+
+.form{
+
+}
+
+#aboutparagraph{
+  text-align: center;
+}
+#form{
+  color:#778899;
+}
+
+#video2{
+  display: block;
+  margin: auto;
+}
+
+.footerbar {
+  background-color: white;
+  color:Black;
+  float: right;
+}
